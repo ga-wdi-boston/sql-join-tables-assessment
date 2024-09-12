@@ -1,1 +1,3 @@
 -- load doctors and patients tables from csv files
+
+\copy data/doctors.csv
